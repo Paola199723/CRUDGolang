@@ -1,4 +1,4 @@
-@api = http://localhost:3000/tasks
+@api = https://lit-atoll-27233.herokuapp.com/tasks
 
 ### get tasks
 GET {{api}}
